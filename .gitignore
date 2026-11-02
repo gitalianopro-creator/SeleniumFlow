@@ -1,0 +1,11 @@
+# Ambiente e Credenciais
+.env
+
+# Ambientes virtuais Python
+__pycache__/
+
+# Arquivos de dados locais ou logs gerados pelos scripts
+*.xlsx
+*.xls
+*.csv
+*.log
